@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/hasifresearch/d3762b5a-7d19-43d0-8fbe-6bcb6430b952/46e6fad4-dbca-4477-9ae1-60ed2b0df7ca/_apis/work/boardbadge/4542d7d3-e8f0-4178-b0c9-54cc454875c3)](https://dev.azure.com/hasifresearch/d3762b5a-7d19-43d0-8fbe-6bcb6430b952/_boards/board/t/46e6fad4-dbca-4477-9ae1-60ed2b0df7ca/Microsoft.RequirementCategory)
 <h1 align="center">my nord config</h1>
 
 <div align="center">
